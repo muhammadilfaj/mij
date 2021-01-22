@@ -43,7 +43,7 @@
 }
 
 body {
-  font-family: "adobe-garamond-pro", serif;
+  font-family: "ibm-plex-sans", sans-serif;
   font-size: 16px;
   line-height: 1.5;
   color: var(--fg-color);
