@@ -1,0 +1,15 @@
+title: mij
+description: personal website
+url: https://muhammadilfaj.github.io
+baseurl: /mij
+permalink: pretty
+timezone: Asia/Jakarta
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+author:
+  name: muhammadilfaj
+  email: muhammadilfaj@gmail.com
+version: 2.0.0
