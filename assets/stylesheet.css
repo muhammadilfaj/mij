@@ -48,8 +48,10 @@ body {
   line-height: 1.5;
   color: var(--fg-color);
   background-color: var(--bg-color);
-  
-  @media (min-width: 720px) {
+}
+
+@media (min-width: 720px) {
+  body {
     font-size: 20px;
   }
 }
@@ -166,8 +168,10 @@ blockquote p:last-child {
   padding-right: 24px;
   margin-left:  auto;
   margin-right: auto;
+}
   
-  @media (min-width: 720px) {
+@media (min-width: 720px) {
+  .container {
     max-width: 30em;
   }
 }
