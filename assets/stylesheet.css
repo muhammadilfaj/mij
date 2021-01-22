@@ -1,3 +1,8 @@
 /*
  * all css styling
  */
+
+/* base style */
+body {
+  font-family: "source-serif-pro", serif;
+}
