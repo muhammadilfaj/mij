@@ -5,10 +5,10 @@ title: home
 
 <section>
   {% for post in site.posts %}
-  <article>
+  <article class="mb-2">
     <time datetime="{{ post.date | date_to_xmlschema }}"><small>Published {{ post.date | date_to_string }}</small></time>
     <h2>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}" class="text-dark">{{ post.title }}</a>
     </h2>
   </article>
   {% endfor%}
