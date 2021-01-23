@@ -176,13 +176,13 @@ blockquote p:last-child {
   }
 }
 
-.main-header {
+.site-header {
   margin-bottom: var(--spacer-2);
   padding: var(--spacer) 0;
   border-bottom: 1px solid var(--fg-color);
 }
 
-.main-footer {
+.site-footer {
   margin-top: var(--spacer-2);
   padding: var(--spacer) 0;
   border-top: .25rem solid var(--fg-color);
@@ -249,7 +249,17 @@ blockquote p:last-child {
   padding-bottom: var(--spacer-3);
 }
 
+.fw-light {
+  font-weight: 300;
+}
 
+.fw-normal {
+  font-weight: 400;
+}
+
+.fw-bold {
+  font-weight: 700;
+}
 
 
 
