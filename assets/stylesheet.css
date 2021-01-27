@@ -4,6 +4,42 @@
 
 /* load webfont */
 @font-face {
+  font-family: 'xcharter';
+  font-display: auto;
+  font-style: normal;
+  font-weight: 400;
+  src:  url('assets/xcharter-roman.woff2') format('woff2'),
+        url('assets/xcharter-roman.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'xcharter';
+  font-display: auto;
+  font-style: italic;
+  font-weight: 400;
+  src:  url('assets/xcharter-italic.woff2') format('woff2'),
+        url('assets/xcharter-italic.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'xcharter';
+  font-display: auto;
+  font-style: normal;
+  font-weight: 700;
+  src:  url('assets/xcharter-bold.woff2') format('woff2'),
+        url('assets/xcharter-bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'xcharter';
+  font-display: auto;
+  font-style: italic;
+  font-weight: 700;
+  src:  url('assets/xcharter-bolditalic.woff2') format('woff2'),
+        url('assets/xcharter-bolditalic.woff') format('woff');
+}
+
+@font-face {
 	font-family: "TiemposText";
 	src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular.eot");
 	src: url("https://www.bu.edu/cdn/fonts/TiemposText/TiemposText-Regular.eot?#iefix") format("embedded-opentype"),
@@ -80,7 +116,7 @@
 }
 
 body {
-  font-family: "TiemposText", serif;
+  font-family: "xcharter", serif;
   font-size: 16px;
   line-height: 1.5;
   color: var(--fg-color);
