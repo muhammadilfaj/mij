@@ -138,6 +138,7 @@ h3,
 h4,
 h5,
 h6 {
+  margin-top: 0;
   margin-bottom: .25em;
   padding-top: .5em;
   line-height: 1.25;
@@ -174,7 +175,7 @@ ul, ol, dl {
 }
 
 li + li {
-  margin-bottom: var
+  margin-bottom: .5em;
 }
 
 dt {
