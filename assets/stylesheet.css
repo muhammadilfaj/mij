@@ -8,8 +8,8 @@
   font-display: auto;
   font-style: normal;
   font-weight: 400;
-  src:  url('assets/xcharter-roman.woff2') format('woff2'),
-        url('assets/xcharter-roman.woff') format('woff');
+  src:  url('/assets/xcharter-roman.woff2') format('woff2'),
+        url('/assets/xcharter-roman.woff') format('woff');
 }
 
 @font-face {
