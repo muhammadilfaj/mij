@@ -192,6 +192,7 @@ hr {
 blockquote {
   margin-left: var(--spacer-2);
   color: var(--gray-700);
+  border: 1px solid inherit;
 }
 
 blockquote p:last-child {
