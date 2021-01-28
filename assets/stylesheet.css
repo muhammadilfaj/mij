@@ -174,10 +174,6 @@ ul, ol, dl {
   margin-bottom: var(--spacer-2);
 }
 
-li + li {
-  margin-bottom: .5em;
-}
-
 dt {
   font-weight: normal;
 }
@@ -195,6 +191,7 @@ hr {
 }
 
 blockquote {
+  margin: 0;
   padding-left: var(--spacer-2);
   color: var(--gray-700);
   border-left: 1px solid var(--gray-700);
