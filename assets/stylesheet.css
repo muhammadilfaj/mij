@@ -17,8 +17,8 @@
   font-display: auto;
   font-style: italic;
   font-weight: 400;
-  src:  url('assets/xcharter-italic.woff2') format('woff2'),
-        url('assets/xcharter-italic.woff') format('woff');
+  src:  url('/assets/xcharter-italic.woff2') format('woff2'),
+        url('/assets/xcharter-italic.woff') format('woff');
 }
 
 @font-face {
@@ -26,8 +26,8 @@
   font-display: auto;
   font-style: normal;
   font-weight: 700;
-  src:  url('assets/xcharter-bold.woff2') format('woff2'),
-        url('assets/xcharter-bold.woff') format('woff');
+  src:  url('/assets/xcharter-bold.woff2') format('woff2'),
+        url('/assets/xcharter-bold.woff') format('woff');
 }
 
 @font-face {
@@ -35,8 +35,8 @@
   font-display: auto;
   font-style: italic;
   font-weight: 700;
-  src:  url('assets/xcharter-bolditalic.woff2') format('woff2'),
-        url('assets/xcharter-bolditalic.woff') format('woff');
+  src:  url('/assets/xcharter-bolditalic.woff2') format('woff2'),
+        url('/assets/xcharter-bolditalic.woff') format('woff');
 }
 
 /* variable */
