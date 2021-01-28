@@ -173,13 +173,17 @@ ul, ol, dl {
   margin-bottom: var(--spacer-2);
 }
 
+li + li {
+  margin-bottom: var
+}
+
 dt {
   font-weight: normal;
 }
 
 dd {
   margin-left: var(--spacer-2);
-  margin-bottom: var(--spacer);
+  margin-bottom: .5em;
 }
 
 hr {
@@ -192,7 +196,7 @@ hr {
 blockquote {
   margin-left: var(--spacer-2);
   color: var(--gray-700);
-  border: 1px solid var(--gray-700);
+  border-left: 1px solid var(--gray-700);
 }
 
 blockquote p:last-child {
