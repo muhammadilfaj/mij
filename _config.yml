@@ -1,7 +1,6 @@
 title: mij
 description: personal website
 url: https://muhammadilfaj.github.io
-baseurl: /mij
 permalink: pretty
 timezone: Asia/Jakarta
 plugins:
