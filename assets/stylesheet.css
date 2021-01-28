@@ -191,6 +191,7 @@ hr {
 }
 
 blockquote {
+  margin-left: 0;
   margin-bottom: var(--spacer);
   padding-left: var(--spacer-2);
   color: var(--gray-700);
