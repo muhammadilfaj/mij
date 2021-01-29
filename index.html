@@ -10,7 +10,7 @@ title: home
     <h2 class="m-0 p-0 fw-normal">
       <a href="{{ post.url | relative_url }}" class="text-dark">{{ post.title }}</a>
     </h2>
-    {% if site.description %}
+    {% if post.description %}
     <p class="m-0"><em>{{ post.description }}</em></p>
     {% endif %}
   </article>
