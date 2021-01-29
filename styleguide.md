@@ -13,6 +13,12 @@ Glauben oder nicht glauben, Lorem Ipsum ist nicht nur ein zufälliger Text. Er h
 ## judul 2
 # judul 1
 
+## *heading with I'd*
+# My Great Heading {#custom-id}
+
+## *Linking to Heading IDs*
+You can link to headings with custom IDs in the file by creating a standard link with a number sign (#) followed by the custom heading ID. [go to heading with id](#custom-id)
+
 ## *daftar berurutan*
 1. Es ist ein lang erwiesener Fakt, dass ein Leser vom Text abgelenkt wird, wenn er sich ein Layout ansieht. Der Punkt, Lorem Ipsum zu nutzen, ist, dass es mehr oder weniger die normale Anordnung von Buchstaben darstellt und somit nach lesbarer Sprache aussieht.
 2. Glauben oder nicht glauben, Lorem Ipsum ist nicht nur ein zufälliger Text. Er hat Wurzeln aus der Lateinischen Literatur von 45 v. Chr, was ihn über 2000 Jahre alt macht.
@@ -73,6 +79,22 @@ four | five | six
 }
 ```
 
+## *horizontal rule*
+---
+***
+
+## *footnote*
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's one with multiple paragraphs and code.
+
+  Indent paragraphs to include them in the footnote.
+
+  `{ my code }`
+
+  Add as many paragraphs as you like.
 
 
 
