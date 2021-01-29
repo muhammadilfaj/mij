@@ -20,7 +20,7 @@ And that brings us to our first bucket of bathwater: we can no longer think of p
 
 This is just as important when what you’re selling isn’t the content itself, but a service or product tangential to it. At Typekit, a large part of our success can be attributed to a publishing strategy that focuses on content that makes us all smarter: we share how we do things at Typekit and what we’ve learned from them, and we commission other writers to share what they know. An ancillary business case can be made for much of that content, but ultimately the question we ask ourselves is how we can make our community better; and we can answer that question confidently because we are ourselves a part of it.
 
-Likewise, in 1997, Jeffrey Zeldman and Brian M. Platz co-founded a mailing list to advocate for the burgeoning web standards movement. Designers and developers themselves, they started A List Apart because they recognized the need. More than a decade later, A Book Apart published its first book, HTML5 for Web Designers, and within hours sold thousands of copies—despite not belonging to any of the major book distributors. There is a direct line from that original mailing list to the launch of a new and successful publishing house (as well as events and agencies). The business model is a consequence of supporting the community—it’s a happy byproduct, not a means unto itself.
+Likewise, in 1997, Jeffrey Zeldman and Brian M. Platz co-founded a mailing list[^1] to advocate for the burgeoning web standards movement. Designers and developers themselves, they started A List Apart because they recognized the need. More than a decade later, A Book Apart published its first book, HTML5 for Web Designers, and within hours sold thousands of copies—despite not belonging to any of the major book distributors. There is a direct line from that original mailing list to the launch of a new and successful publishing house (as well as events and agencies). The business model is a consequence of supporting the community—it’s a happy byproduct, not a means unto itself.
 
 Of course, supporting a community is hard work, and it isn’t cheap. It’s expensive not only in time, but in spirit: you have to care about your readers. You have to stay up late wondering how you can make their days better. But the result is that you are beholden not to a particular platform, or even a certain kind of business, but to your people. And the more in touch you are with those people, the more likely you are to publish content (or sell a service, or build a product) they not only need, but love. Broadcast may be the bathwater, but community is the baby we didn’t used to have.
 
@@ -60,6 +60,8 @@ Now that’s changed. We are all just pennies and a click away from publishing a
 All of which is exciting, because it means there are more people willing and able to experiment, more people in a position to try new things—perhaps succeeding, perhaps not—but in either case sharing what they learned. And whether we’re working on fanfiction or dataviz or old-fashioned chapbooks, there is one community to which we all belong: each other. And that means I can’t answer this question alone; we have to answer it together.
 
 Tell me: what is it that you do?
+
+[^1]: explain the footnote
 
 
 
