@@ -167,7 +167,7 @@ p {
 
 small {
   font-size: 80%;
-}
+} 
 
 ul, ol, dl {
   margin-top: 0;
@@ -204,6 +204,42 @@ blockquote p:last-child {
 
 figure {
   margin: 0;
+}
+
+code {
+  font-size: 80%;
+}
+
+pre {
+  display: block;
+  margin-top: 0;
+  margin-bottom: var(--spacer);
+  overflow: auto;
+}
+
+/* jekyll syntax highlighting */
+.highligh {
+  padding: .5em;
+  margin-bottom: var(--spacer);
+  background-color: var(--gray-000);
+}
+
+/*
+ * markdown footnote
+ */
+/* Footnote number within body text */
+a[href^="#fn:"],
+/* Back to footnote link */
+a[href^="#fnref:"] {
+  display: inline-block;
+  margin-left: .1em;
+  font-weight: bold;
+}
+
+/* List of footnotes */
+.footnotes {
+  margin-top: var(--spacer);
+  font-size: 80%;
 }
 
 /* layout */
