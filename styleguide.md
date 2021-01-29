@@ -41,6 +41,19 @@ tipografi
 prinsip gestalt
 : Gestalt adalah sebuah teori yang menjelaskan proses persepsi melalui pengorganisasian komponen-komponen sensasi yang memiliki hubungan, pola, ataupun kemiripan menjadi kesatuan. Teori gestalt beroposisi terhadap teori strukturalisme. Teori gestalt cenderung berupaya mengurangi pembagian sensasi menjadi bagian-bagian kecil.
 
+## *footnote*
+Here's a simple footnote,[^1] and here's a longer one.[^2]
+
+[^1]: This is the first footnote.
+
+[^2]: Here's one with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
+
 ## *menampilkan gambar*
 ![funny cat](https://source.unsplash.com/Tn8DLxwuDMA)
 
@@ -83,18 +96,7 @@ four | five | six
 ---
 ***
 
-## *footnote*
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
-[^1]: This is the first footnote.
-
-[^bignote]: Here's one with multiple paragraphs and code.
-
-  Indent paragraphs to include them in the footnote.
-
-  `{ my code }`
-
-  Add as many paragraphs as you like.
 
 
 
