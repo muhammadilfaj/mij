@@ -218,7 +218,7 @@ pre {
 }
 
 /* jekyll syntax highlighting */
-.highligh {
+.highlight {
   padding: .5em;
   margin-bottom: var(--spacer);
   background-color: var(--gray-000);
@@ -239,8 +239,9 @@ a[href^="#fnref:"] {
 /* List of footnotes */
 .footnotes {
   margin-top: var(--spacer);
-  mmargin-left: 0;
+  padding-top: var(--spacer);
   font-size: 80%;
+  border: 1px solid var(--gray-700);
 }
 
 /* layout */
