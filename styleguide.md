@@ -39,7 +39,7 @@ tipografi
 : Tipografi, seni cetak atau tata huruf adalah suatu kesenian dan teknik memilih dan menata huruf dengan pengaturan penyebarannya pada ruang yang tersedia, untuk menciptakan kesan tertentu, guna kenyamanan membaca semaksimal mungkin.
 
 prinsip gestalt
-: Gestalt adalah sebuah teori yang menjelaskan proses persepsi melalui pengorganisasian komponen-komponen sensasi yang memiliki hubungan, pola, ataupun kemiripan menjadi kesatuan. Teori gestalt beroposisi terhadap teori strukturalisme. Teori gestalt cenderung berupaya mengurangi pembagian sensasi menjadi bagian-bagian kecil.
+: Gestalt[^3] adalah sebuah teori yang menjelaskan proses persepsi melalui pengorganisasian komponen-komponen sensasi yang memiliki hubungan, pola, ataupun kemiripan menjadi kesatuan. Teori gestalt beroposisi terhadap teori strukturalisme. Teori gestalt cenderung berupaya mengurangi pembagian sensasi menjadi bagian-bagian kecil.
 
 ## *footnote*
 Here's a simple footnote,[^1] and here's a longer one.[^2]
@@ -53,6 +53,8 @@ Here's a simple footnote,[^1] and here's a longer one.[^2]
     `{ my code }`
 
     Add as many paragraphs as you like.
+    
+[^3]: third footnote
 
 ## *menampilkan gambar*
 ![funny cat](https://source.unsplash.com/Tn8DLxwuDMA)
@@ -84,6 +86,10 @@ four | five | six
 - <mark>highlighting text</mark>
 - `inline code`
 
+## *horizontal rule*
+---
+***
+
 ## *block code*
 ```
 * {
@@ -92,9 +98,7 @@ four | five | six
 }
 ```
 
-## *horizontal rule*
----
-***
+
 
 
 
