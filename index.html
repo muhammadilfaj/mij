@@ -5,7 +5,7 @@ title: home
 
 <section>
   {% for post in site.posts %}
-  <article class="mb-2">
+  <article class="mb-1">
     <time datetime="{{ post.date | date_to_xmlschema }}"><small>Published {{ post.date | date_to_string }}</small></time>
     <h2 class="m-0 p-0 fw-normal">
       <a href="{{ post.url | relative_url }}" class="text-dark">{{ post.title }}</a>
