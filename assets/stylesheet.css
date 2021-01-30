@@ -174,19 +174,6 @@ ul, ol, dl {
   margin-bottom: var(--spacer-2);
 }
 
-ul,
-ol {
-  padding: 0;
-}
-
-ul li {
-  margin-bottom: .5em;
-}
-
-ol li {
-  margin-bottom: .5em;
-}
-
 dt {
   font-weight: normal;
 }
