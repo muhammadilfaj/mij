@@ -192,10 +192,13 @@ hr {
 
 blockquote {
   margin-left: 0;
-  margin-bottom: var(--spacer);
-  padding-left: var(--spacer-2);
+  padding-left: var(--spacer);
   color: var(--gray-700);
   border-left: 1px solid var(--gray-700);
+}
+
+.blockquote {
+  margin-bottom: var(--spacer);
 }
 
 blockquote p:last-child {
