@@ -176,7 +176,15 @@ ul, ol, dl {
 
 ul,
 ol {
-  margin-left: 0;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: .5em;
+}
+
+ol li {
+  margin-bottom: .5em;
 }
 
 dt {
